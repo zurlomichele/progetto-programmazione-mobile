@@ -1,0 +1,15 @@
+[submodule "android projects/Sandwhich"]
+	path = android projects/Sandwhich
+	url = https://github.com/simone-viozzi/Sandwhich.git
+[submodule "android projects/a_simple_flutter_app"]
+	path = android projects/a_simple_flutter_app
+	url = https://github.com/simone-viozzi/a_simple_flutter_app.git
+[submodule "android projects/Media_extractor_decoding_test1"]
+	path = android projects/Media_extractor_decoding_test1
+	url = https://github.com/simone-viozzi/Media_extractor_decoding_test1.git
+[submodule "python projects/audioDecode_test"]
+	path = python projects/audioDecode_test
+	url = https://github.com/simone-viozzi/audioDecode_test.git
+[submodule "mockup/mockup-app-programmazione-mobile"]
+	path = mockup/mockup-app-programmazione-mobile
+	url = https://github.com/simone-viozzi/mockup-app-programmazione-mobile.git
