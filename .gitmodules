@@ -13,3 +13,6 @@
 [submodule "mockup/mockup-app-programmazione-mobile"]
 	path = mockup/mockup-app-programmazione-mobile
 	url = https://github.com/simone-viozzi/mockup-app-programmazione-mobile.git
+[submodule "android projects/i_like_widgets"]
+	path = android projects/i_like_widgets
+	url = https://github.com/simone-viozzi/i_like_widgets.git
