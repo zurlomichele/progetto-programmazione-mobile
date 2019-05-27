@@ -16,3 +16,6 @@
 [submodule "android projects/i_like_widgets"]
 	path = android projects/i_like_widgets
 	url = https://github.com/simone-viozzi/i_like_widgets.git
+[submodule "android projects/i_love_widget"]
+	path = android projects/i_love_widget
+	url = https://github.com/simone-viozzi/i_love_widget.git
